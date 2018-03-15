@@ -3,6 +3,10 @@ package com.sapient.day2;
 public class Plane extends Vehicle{
 	private int maxAltitude;
 
+	
+	public Plane(){
+		
+	}
 	public Plane(int maxSpeed, int maxAltitude) {
 		super(maxSpeed);
 		this.maxAltitude = maxAltitude;

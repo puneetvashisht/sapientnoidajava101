@@ -19,6 +19,11 @@ public class VehicleTest {
 //		System.out.println("Plane cruising at : "+ plane.getMaxSpeed());
 //	}
 
+	
+//	for(Vehicle v : vechiles){
+//		
+//	}
+	
 	public static void main(String[] args) {
 		Vehicle vehicle = new Vehicle(233);
 //		vehicle.start();
