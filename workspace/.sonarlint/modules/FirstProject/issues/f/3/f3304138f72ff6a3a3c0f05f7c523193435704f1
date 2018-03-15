@@ -1,0 +1,9 @@
+
+qsquid:S1226">Introduce a new variable instead of reusing the parameter "x".(–Ï‚”8å›‹ò¡,HfRMINORZ
+CODE_SMELL
+lsquid:S1118":Add a private constructor to hide the implicit public one.(‘“ïA8û®‰ò¡,HdRMAJORZ
+CODE_SMELL
+asquid:S1854"5Remove this useless assignment to local variable "x".(–Ï‚”8å›‹ò¡,HhRMAJORZBUG
+r
+squid:S106";Replace this usage of System.out or System.err by a logger.(í Âõøÿÿÿÿ8¡îžò¡,H~RMAJORZ
+CODE_SMELL

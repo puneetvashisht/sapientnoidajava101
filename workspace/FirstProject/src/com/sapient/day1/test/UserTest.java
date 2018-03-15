@@ -8,8 +8,10 @@ public class UserTest {
 
 		User user1;
 		user1 = new User(232, "e@g.com", "sgdds");
+		user1 = null;
 		
-		System.out.println(user1.toString());
+		System.out.println(user1);
+		
 
 	}
 

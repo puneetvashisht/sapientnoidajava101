@@ -1,0 +1,8 @@
+
+Fsquid:S1220""Move this file to a named package.HRMINORZ
+CODE_SMELL
+m
+squid:S106";Replace this usage of System.out or System.err by a logger.(ŠÛá¾8‰û¼í¡,HRMAJORZ
+CODE_SMELL
+rsquid:S1118":Add a private constructor to hide the implicit public one.(ªÑÞÛþÿÿÿÿ8‰û¼í¡,HRMAJORZ
+CODE_SMELL
