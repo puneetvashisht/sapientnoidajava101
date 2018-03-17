@@ -1,13 +1,15 @@
 package com.sapient.day3.assessment;
 
-public class Employee {
+public abstract class Employee {
 	
 	int id;
 	String name;
 	
-	public void bonus() {
-		
-	}
+	
+	public abstract void bonus();
+//	public void bonus() {
+//		System.out.println("Default method -- does nothing");
+//	}
 	
 	public Employee(int id, String name) {
 		super();
