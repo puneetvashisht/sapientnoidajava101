@@ -1,7 +1,4 @@
-package com.sapient.day2.test;
-
-import com.sapient.day2.Plane;
-import com.sapient.day2.Vehicle;
+package com.sapient.day2;
 
 public class VehicleArrayDemo {
 
@@ -20,13 +17,16 @@ public class VehicleArrayDemo {
 		Vehicle vehicles[] = {v1,v2, v3, v4}; 
 		
 		for(Vehicle vehicle : vehicles){
-			System.out.println(vehicle.toString());
-			System.out.println("Speed :" +vehicle.getMaxSpeed());
 			
-			if(vehicle instanceof Plane){
-				Plane p = (Plane)vehicle;
-				System.out.println("Altitude: "+ p.getMaxAltitude());
-			}
+			vehicle.start(23);
+			
+//			System.out.println(vehicle.toString());
+//			System.out.println("Speed :" +vehicle.getMaxSpeed());
+//			
+//			if(vehicle instanceof Plane){
+//				Plane p = (Plane)vehicle;
+//				System.out.println("Altitude: "+ p.getMaxAltitude());
+//			}
 			
 			
 		}

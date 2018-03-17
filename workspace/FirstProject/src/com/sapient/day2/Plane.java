@@ -23,8 +23,9 @@ public class Plane extends Vehicle{
 	}
 
 
-	public void start(){
-		System.out.println("Starting plane @maxSpeed: "+ this.getMaxSpeed() + " can take you to @maxAltitude" + this.maxAltitude);
+	public Plane start(int a){
+		System.out.println("Plane**** Starting plane @maxSpeed: "+ this.getMaxSpeed() + " can take you to @maxAltitude" + this.maxAltitude);
+		return null;
 	}
 
 	public String fly() {

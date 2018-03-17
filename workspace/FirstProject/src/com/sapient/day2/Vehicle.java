@@ -17,13 +17,14 @@ public class Vehicle {
 		return maxSpeed;
 	}
 	public void setMaxSpeed(int maxSpeed) {
-		if(maxSpeed < 0) throw new RuntimeException("Speed should b above 0");
+		if(maxSpeed < 0) throw new RuntimeException(" Speed should b above 0");
 		this.maxSpeed = maxSpeed;
 	}
 	
 	
-	public void start(){
-		System.out.println("Starting vehicle @maxSpeed: "+ this.maxSpeed);
+	protected Vehicle start(int a){
+		System.out.println("Vehicle**** Starting vehicle @maxSpeed: "+ this.maxSpeed);
+		return null;
 	}
 	
 	
