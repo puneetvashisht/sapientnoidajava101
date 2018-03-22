@@ -1,16 +1,16 @@
 
-dsquid:S1481	"+Remove this unused "deptNo" local variable.(ŸŠ°”úÿÿÿÿ8Û÷áî¡,H‹RMINORZ
+s
+squid:S106'";Replace this usage of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8‰¿ëî¡,H¿RMAJORZ
+CODE_SMELL
+Gsquid:S1220""Move this file to a named package.HÏRMINORZ
 CODE_SMELL
 s
-squid:S106";Replace this usage of System.out or System.err by a logger.(Ã”…ªûÿÿÿÿ8ÏµÓî¡,HRMAJORZ
+squid:S106";Replace this usage of System.out or System.err by a logger.(Ã”…ªûÿÿÿÿ8ÏµÓî¡,HÁRMAJORZ
+CODE_SMELL
+dsquid:S1481	"+Remove this unused "deptNo" local variable.(ŸŠ°”úÿÿÿÿ8Û÷áî¡,HÓRMINORZ
 CODE_SMELL
 s
-squid:S106'";Replace this usage of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8‰¿ëî¡,H‰RMAJORZ
+squid:S106"";Replace this usage of System.out or System.err by a logger.(æ–İ€ÿÿÿÿÿ8«¬èî¡,HÀRMAJORZ
 CODE_SMELL
-Gsquid:S1220""Move this file to a named package.HŒRMINORZ
-CODE_SMELL
-lsquid:S1118":Add a private constructor to hide the implicit public one.(º¡ ÚüÿÿÿÿHŠRMAJORZ
-CODE_SMELL
-s
-squid:S106"";Replace this usage of System.out or System.err by a logger.(æ–İ€ÿÿÿÿÿ8«¬èî¡,HˆRMAJORZ
+lsquid:S1118":Add a private constructor to hide the implicit public one.(º¡ ÚüÿÿÿÿHÆRMAJORZ
 CODE_SMELL

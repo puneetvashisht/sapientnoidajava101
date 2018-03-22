@@ -1,9 +1,9 @@
 
+msquid:S1118":Add a private constructor to hide the implicit public one.(‘“ïA8û®‰ò¡,HÕRMAJORZ
+CODE_SMELL
+rsquid:S1226">Introduce a new variable instead of reusing the parameter "x".(–Ï‚”8å›‹ò¡,HÜRMINORZ
+CODE_SMELL
+bsquid:S1854"5Remove this useless assignment to local variable "x".(–Ï‚”8å›‹ò¡,HÙRMAJORZBUG
 s
-squid:S106";Replace this usage of System.out or System.err by a logger.(í Âõøÿÿÿÿ8¡îžò¡,HŽRMAJORZ
-CODE_SMELL
-msquid:S1118":Add a private constructor to hide the implicit public one.(‘“ïA8û®‰ò¡,HRMAJORZ
-CODE_SMELL
-bsquid:S1854"5Remove this useless assignment to local variable "x".(–Ï‚”8å›‹ò¡,HRMAJORZBUG
-rsquid:S1226">Introduce a new variable instead of reusing the parameter "x".(–Ï‚”8å›‹ò¡,H‘RMINORZ
+squid:S106";Replace this usage of System.out or System.err by a logger.(í Âõøÿÿÿÿ8¡îžò¡,HÎRMAJORZ
 CODE_SMELL

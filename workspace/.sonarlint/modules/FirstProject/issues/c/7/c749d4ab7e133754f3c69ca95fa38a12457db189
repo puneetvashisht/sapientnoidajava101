@@ -1,4 +1,6 @@
 
 s
-squid:S106";Replace this usage of System.out or System.err by a logger.(êÂÿ¯øÿÿÿÿ8Âë”Ã¢,H€RMAJORZ
+squid:S106";Replace this usage of System.out or System.err by a logger.(ã†¤ùÿÿÿÿ8Âë”Ã¢,HÃRMAJORZ
+CODE_SMELL
+\squid:S1172"(Remove this unused method parameter "a".(Íäé”8²·¦“£,H²RMAJORZ
 CODE_SMELL

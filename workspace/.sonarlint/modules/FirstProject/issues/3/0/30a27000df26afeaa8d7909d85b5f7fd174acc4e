@@ -1,0 +1,27 @@
+
+s
+squid:S106#";Replace this usage of System.out or System.err by a logger.(®ÛÂàûÿÿÿÿ8¿ƒ“£,HRMAJORZ
+CODE_SMELL
+s
+squid:S106";Replace this usage of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8ºô…£,HˆRMAJORZ
+CODE_SMELL
+s
+squid:S106";Replace this usage of System.out or System.err by a logger.(®ÛÂàûÿÿÿÿ8¯‰ƒ£,H‡RMAJORZ
+CODE_SMELL
+s
+squid:S106";Replace this usage of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ8…è£,H†RMAJORZ
+CODE_SMELL
+s
+squid:S106";Replace this usage of System.out or System.err by a logger.(­ÎºÊüÿÿÿÿ8¦à†£,H‹RMAJORZ
+CODE_SMELL
+n
+squid:S106"";Replace this usage of System.out or System.err by a logger.(ó˜òÌ8½‘Œ£,HRMAJORZ
+CODE_SMELL
+isquid:S2209$"5Change this instance-reference to a static reference.(²¢€™8¦à†£,HŒRMAJORZ
+CODE_SMELL
+s
+squid:S106";Replace this usage of System.out or System.err by a logger.(®ÛÂàûÿÿÿÿ8ºô…£,H‰RMAJORZ
+CODE_SMELL
+n
+squid:S106$";Replace this usage of System.out or System.err by a logger.(²¢€™8ç­“£,H“RMAJORZ
+CODE_SMELL
