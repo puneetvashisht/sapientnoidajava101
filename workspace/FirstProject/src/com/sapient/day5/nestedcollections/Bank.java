@@ -13,6 +13,11 @@ public class Bank {
 		this.name = name;
 		this.branches = branches;
 	}
+	
+	public boolean addBranch(Branch branch){
+		this.branches.add(branch);
+		return true;
+	}
 	@Override
 	public String toString() {
 		return "Bank [id=" + id + ", name=" + name + ", branches=" + branches + "]";
