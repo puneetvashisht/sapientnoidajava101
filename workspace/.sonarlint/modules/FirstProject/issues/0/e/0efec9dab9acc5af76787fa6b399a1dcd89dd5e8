@@ -1,11 +1,11 @@
 
-lsquid:S1118":Add a private constructor to hide the implicit public one.(ι»•πώÿÿÿÿHΆRMAJORZ
+n
+squid:S106";Replace this usage of System.out or System.err by a logger.(όελυ8γετ£,HΆRMAJORZ
+CODE_SMELL
+lsquid:S1118":Add a private constructor to hide the implicit public one.(ι»•πώÿÿÿÿH£RMAJORZ
+CODE_SMELL
+qsquid:S1197"8Move the array designator from the variable to the type.(€Ξÿÿÿÿÿ8µ•η£,H΅RMINORZ
 CODE_SMELL
 n
-squid:S106";Replace this usage of System.out or System.err by a logger.(•Ά„Ύ8χτσ£,HΈRMAJORZ
-CODE_SMELL
-n
-squid:S106";Replace this usage of System.out or System.err by a logger.(όελυ8γετ£,HΉRMAJORZ
-CODE_SMELL
-qsquid:S1197"8Move the array designator from the variable to the type.(€Ξÿÿÿÿÿ8µ•η£,H¤RMINORZ
+squid:S106";Replace this usage of System.out or System.err by a logger.(•Ά„Ύ8χτσ£,H¤RMAJORZ
 CODE_SMELL

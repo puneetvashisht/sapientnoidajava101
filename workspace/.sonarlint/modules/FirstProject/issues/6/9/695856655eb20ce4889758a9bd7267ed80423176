@@ -1,8 +1,8 @@
 
-Dsquid:S1700"Rename field "b"(ØÝê±8Àœ¡œ£,HÙRMAJORZ
+Dsquid:S1700"Rename field "b"(ØÝê±8Àœ¡œ£,H¿RMAJORZ
+CODE_SMELL
+Xsquid:S2387"""a" is the name of a field in "A".(®š‹á8àƒªœ£,HÁRBLOCKERZ
 CODE_SMELL
 s
-squid:S106$";Replace this usage of System.out or System.err by a logger.(ØÔÓÒúÿÿÿÿ8ä€«œ£,HÞRMAJORZ
-CODE_SMELL
-Xsquid:S2387"""a" is the name of a field in "A".(®š‹á8àƒªœ£,HÜRBLOCKERZ
+squid:S106$";Replace this usage of System.out or System.err by a logger.(ØÔÓÒúÿÿÿÿ8ä€«œ£,HÀRMAJORZ
 CODE_SMELL

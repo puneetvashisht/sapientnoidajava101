@@ -103,3 +103,17 @@ d
 .src/com/sapient/day4/collections/SetsDemo.java,e/9/e92dae5a6791a77dd949bdaaad7edddc67daf599
 _
 /src/com/sapient/day4/collections/Employee2.java,7/7/77487aa5e98a3c4acefeeeccaa988158b2dd36e1
+R
+"src/com/sapient/day5/SetsDemo.java,2/7/27e1b52aff819174aaf3519a87fc5b26782681e4
+R
+"src/com/sapient/day5/Employee.java,7/0/701f61bdeb0ff8c0841b4790b8cb0c45c59c0973
+R
+"src/com/sapient/day5/MapsDemp.java,a/9/a9c25144dc63504b3d2851f77e52348eb1aa9a39
+\
+,src/com/sapient/day4/collections/GCDemo.java,b/1/b109cc80de2e9a052041b8c251cc8361ff99bf54
+b
+2src/com/sapient/day5/nestedcollections/Branch.java,f/8/f8fda3f07f7a1efe7970e8cf24b204e3a5ccd551
+`
+0src/com/sapient/day5/nestedcollections/Test.java,9/3/931524e35374083e1e1e7b9b80e39f877ce9344c
+`
+0src/com/sapient/day5/nestedcollections/Bank.java,3/7/37f03b692e0db343a6b4c3e6e08c9b11b84c6dec
