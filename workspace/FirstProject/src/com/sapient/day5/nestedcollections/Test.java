@@ -25,7 +25,14 @@ public class Test {
 		branches.add(branch1);
 		branches.add(branch2);
 		
+		
+		
 		Bank bankICICI = new Bank(1,"ICICI", branches);
+		
+		Branch newbranch = new Branch(1, "Rohini", "Rohini" );
+		bankICICI.addBranch(newbranch);
+		
+		System.out.println(bankICICI);
 		
 		Map<String, Bank> bankMap = new HashMap<>();
 		bankMap.put("ICICI", bankICICI);

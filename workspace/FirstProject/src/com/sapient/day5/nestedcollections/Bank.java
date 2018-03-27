@@ -18,6 +18,10 @@ public class Bank {
 		this.branches.add(branch);
 		return true;
 	}
+	public boolean addBranches(List<Branch> branches){
+		this.branches.addAll(branches);
+		return true;
+	}
 	@Override
 	public String toString() {
 		return "Bank [id=" + id + ", name=" + name + ", branches=" + branches + "]";
